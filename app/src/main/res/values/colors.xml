@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Màu chủ đạo của ứng dụng (Xanh ngọc) -->
+    <color name="colorPrimary">#009688</color>
+    <color name="colorPrimaryDark">#00796B</color>
+    <color name="colorAccent">#009688</color>
+    
+    <!-- Màu sắc cơ bản và trạng thái -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="red">#F44336</color>
+    <color name="orange">#FF9800</color>
+    <color name="gray">#757575</color>
+    <color name="light_gray">#F5F5F5</color>
+</resources>

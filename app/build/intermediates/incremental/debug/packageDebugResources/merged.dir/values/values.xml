@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="colorAccent">#009688</color>
+    <color name="colorPrimary">#009688</color>
+    <color name="colorPrimaryDark">#00796B</color>
+    <color name="gray">#757575</color>
+    <color name="light_gray">#F5F5F5</color>
+    <color name="orange">#FF9800</color>
+    <color name="red">#F44336</color>
+    <color name="white">#FFFFFF</color>
+    <string name="add_appointment">+ Thêm lịch hẹn</string>
+    <string name="app_name">Quản lý lịch hẹn</string>
+    <string name="back">Quay lại</string>
+    <string name="btn_login">Đăng nhập</string>
+    <string name="delete_appointment">Xóa lịch hẹn</string>
+    <string name="login_title">Quản lý lịch hẹn</string>
+    <string name="password_hint">Mật khẩu</string>
+    <string name="reminder_off_text">Đang tắt</string>
+    <string name="reminder_on_text">Đang bật</string>
+    <string name="reminders_on">Bật nhắc nhở</string>
+    <string name="save_appointment">Lưu lịch hẹn</string>
+    <string name="total_appointments">Tổng lịch hẹn</string>
+    <string name="username_hint">Tên đăng nhập</string>
+</resources>
